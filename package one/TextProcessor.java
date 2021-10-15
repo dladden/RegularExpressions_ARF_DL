@@ -1,7 +1,8 @@
-package Part_1;
+package one;
 import java.io.*;
 import java.util.Scanner;
 import java.util.regex.*;
+
 
 /**
  * 

@@ -1,4 +1,4 @@
-package Part2;
+package two;
 import java.io.*;
 import java.nio.file.Path;
 import java.util.*;
