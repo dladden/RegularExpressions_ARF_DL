@@ -23,7 +23,7 @@ public class ExtractText {
 
 	public static void main(String[] args) {
 		
-		File file = new File("/Users/denys/eclipse-workspace/Regular Expressions/2021FA_Class_Schedule_Daily.pdf");
+		File file = new File("Regular Expressions/2021FA_Class_Schedule_Daily.pdf");
 		String fileToSearch = "class_schedule.txt";
 		
 		/*
